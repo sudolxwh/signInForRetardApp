@@ -1,0 +1,9 @@
+{
+  "name": "Sign",
+  "version": "1.0.0",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "got": "^11.8.2",
+    "request": "^2.88.2"
+  }
+}
